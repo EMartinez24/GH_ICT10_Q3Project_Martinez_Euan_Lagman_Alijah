@@ -1,0 +1,48 @@
+body {
+    background-color: #7FFF00 !important;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.navbar {
+    background-color: black;
+}
+.brand-color {
+    color: #7FFF00 !important;
+}
+.btn-color {
+    background-color: #7FFF00 !important;
+    color: black !important;
+}
+.btn-color:hover {
+    background-color: #5aa60d !important;
+}
+.btn-register {
+    background-color: #7FFF00;
+    color: black;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.btn-register:hover {
+    background-color: #5aa60d;
+}
+.checker-card {
+    background-color: black;
+    color: #7FFF00;
+    border-radius: 12px;
+    padding: 40px;
+    width: 100%;
+    max-width: 550px;
+    min-height: 580px;
+}
+#output {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #7FFF00;
+}

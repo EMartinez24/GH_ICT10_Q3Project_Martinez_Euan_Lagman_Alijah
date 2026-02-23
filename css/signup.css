@@ -1,0 +1,42 @@
+body {
+    background-color: #7FFF00 !important;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.navbar {
+    background-color: black;
+}
+.brand-color {
+    color: #7FFF00 !important;
+}
+.btn-color {
+    background-color: #7FFF00 !important;
+    color: black !important;
+}
+.btn-color:hover {
+    background-color: #5aa60d !important;
+}
+.signup-container {
+    max-width: 400px;
+    margin-top: 100px;
+    background: black;
+    padding: 30px;
+    border-radius: 15px;
+    color: #7FFF00;
+}
+.btn-register {
+    background-color: #7FFF00;
+    color: black;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.btn-register:hover {
+    background-color: #5aa60d;
+}
+#output {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    text-align: center;
+}
