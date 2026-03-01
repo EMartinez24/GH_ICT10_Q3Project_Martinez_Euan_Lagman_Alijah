@@ -1,0 +1,30 @@
+from pyscript import display, document
+
+def show_players(e):
+    document.getElementById('player-list').innerHTML = ' '
+    
+    display(f'ASEO, TESSA YSABELLE MARZAN', target='player-list')
+    display(f'BATAC, ANAKIN MIGUEL QUINTO', target='player-list')
+    display(f'CALANGLANG, NERIZA ALIPIO', target='player-list')
+    display(f'DE GUZMAN, VITO ANTONIO OLIVERA', target='player-list')
+    display(f'DEE, AARON JAMES GONZALO', target='player-list')
+    display(f'DOLOR, HARVEY WAYNE BATINO', target='player-list')
+    display(f'GALVEZ, SELENA MANSUETO', target='player-list')
+    display(f'GARCES, ADRIANNA MALANUM', target='player-list')
+    display(f'GROSPE, JILLIAN CUISON', target='player-list')
+    display(f'HIZON, EDUARDO ALONSO MAGSOMBOL', target='player-list')
+    display(f'INTALAN, MARGO ZERA FRANCISCO', target='player-list')
+    display(f'KO, ATASHA SOLEIL ROMERO', target='player-list')
+    display(f'LAGMAN, ALIJAH RAIN', target='player-list')
+    display(f'LAW, MARCUS CHRISTIAN PANLILIO', target='player-list')
+    display(f'MACABAGO, SITTIE AINAH MARIANO', target='player-list')
+    display(f'MARTINEZ, EUAN JUSTIN LIM', target='player-list')
+    display(f'MEDINA, KELSEY CLAIRE LAGO', target='player-list')
+    display(f'MENDOZA, MICHAELA YSABELLE CAYNO', target='player-list')
+    display(f'MERGAL, MANUEL JACINTO GUARINO', target='player-list')
+    display(f'NGO, SETH GARETT GOMEZ', target='player-list')
+    display(f'PADOJINOG, SOFIA LAURENCE FABELLA', target='player-list')
+    display(f'RIVERA, BENIGNO IGNACIO JHOCSON', target='player-list')
+    display(f'SHRESTHA, ISHAN JUSTICE QUIAMBAO', target='player-list')
+    display(f'UY, JENNIFER LORRAINE SANCHEZ', target='player-list')
+    display(f'YAO, FRANCESCA JEAN KHO', target='player-list')
